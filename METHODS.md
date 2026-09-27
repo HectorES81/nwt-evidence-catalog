@@ -443,6 +443,8 @@ Not legal advice. The working policy:
 | 7 | Stream F (recall check). | Every published list checked |
 | 8 | External review invitation, including JW-sympathetic reviewers. | Ongoing |
 
+**Pre-pilot time sample.** Before Phase 0 is complete, one chapter (Philemon) is swept with stream B, and one or two candidates are taken to `draft`, to get a rough cost per verse and per entry. Nothing from the sample is published or counted toward coverage until it has been redone under the frozen methods. It does not replace the Phase 2 pilot.
+
 ---
 
 ## 15. Disclosure
@@ -485,3 +487,4 @@ To be published with v1.0:
 |---|---|---|---|
 | 0.1 | 2026-09-26 | Initial draft | Synthesized from the original proposal and two independent AI audits |
 | 0.1 | 2026-09-26 | Project named `nwt-evidence-catalog`; repository created | Resolves the naming half of the §17 open item; domain still open |
+| 0.1 | 2026-09-26 | Added a pre-pilot time sample (Philemon) to §14 | To estimate the time commitment before building Phase 1 infrastructure |
